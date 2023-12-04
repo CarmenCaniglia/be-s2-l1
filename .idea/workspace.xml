@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="568fcd1f-d53e-4fb8-934f-fd256efc7598" name="Changes" comment="inizio esercizio 3">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/BancaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Es1/Es1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Es1/Es1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Es3/ContoCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Es3/ContoCorrente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701703407808</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="inizio esercizio 3">
+      <option name="closed" value="true" />
+      <created>1701703713229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701703713229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -9,7 +9,7 @@ public class Es1 { public static void main(String[] args) {
 
     int [] array = new int[5];
     for (int i = 0; i < array.length; i++){
-        array[i] = random.nextInt(10) + 1; //numeri casuali da 1 a 10
+        array[i] = random.nextInt(1,11); //numeri casuali da 1 a 10
     }
 
     while (true){
