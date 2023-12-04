@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="568fcd1f-d53e-4fb8-934f-fd256efc7598" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/be-s2-l1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logback-classic-1.4.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logback-core-1.4.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-2.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Es1/Es1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="568fcd1f-d53e-4fb8-934f-fd256efc7598" name="Changes" comment="Esercizio 1">
+      <change afterPath="$PROJECT_DIR$/src/Es2/Es2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +36,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/carme/OneDrive/Desktop/EPICODE ESERCIZI/BACK-END/be-s2-l1/lib/slf4j-api-2.0.9.jar",
     "project.structure.last.edited": "Libraries",
@@ -58,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701699623324</updated>
     </task>
+    <task id="LOCAL-00001" summary="Esercizio 1">
+      <option name="closed" value="true" />
+      <created>1701700156959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701700156959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 1" />
   </component>
 </project>
